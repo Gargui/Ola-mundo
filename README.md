@@ -1,2 +1,2 @@
-# Ola mundo
- teste de repositorio versionado
+# Olá, Mundo!
+ Teste de repositorio versionado Git e Github!
